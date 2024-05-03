@@ -1,0 +1,22 @@
+{
+    "name": "Abdefatah Mennoun",
+    "occupation": "Freelancer",
+    "skills": [
+        "Python Development",
+        "Data Analysis",
+        "Machine Learning"
+    ],
+    "experience": "3 years",
+    "portfolio": {
+        "website": "www.abdefatahmennoun.com",
+        "github": "www.github.com/m3nnoun",
+        "linkedin": "https://www.linkedin.com/in/abdelfatah-mennoun/"
+    },
+    "rate": "$00/hour",
+    "availability": "Available for new projects",
+    "contact": {
+        "email": "mennoun.abdefatah@email.com",
+        "phone": "+212 775-341662",
+        "X": "@AbdelFat47"
+    }
+}
